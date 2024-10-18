@@ -1,5 +1,8 @@
-## Hi there 👋
+## Shiny Earth 
 
+- 💬 Ask me about climate change and how to help stop it.
+- 🌱 I’m currently learning to be a little more professional in my coding!
+- 🔭 I’m currently working on monitoring and understanding the changing planet using Earth Observations.
 <!--
 **shinyearth-sci/shinyearth-sci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
